@@ -1,4 +1,4 @@
-## loopback-connector-mongodb
+## neaty-connector-mongodb
 
 MongoDB connector for loopback-datasource-juggler.
 
